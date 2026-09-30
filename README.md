@@ -27,7 +27,7 @@ A lightweight Chrome extension that enables a consistent dark theme on Alibaba.c
 Clone the repository:
 
 ```bash
-git clone https://github.com/Alhomaidi1/Alibaba-Dark-Mode.git
+git clone https://github.com/Alhomaidi3/Alibaba-Dark-Mode.git
 ````
 
 Or download it as a ZIP and extract it.
@@ -76,6 +76,6 @@ MIT License
 ## 💡 Author
 
 **Abdulrahman Alhomaidi**  
-GitHub: [https://github.com/Alhomaidi1](https://github.com/Alhomaidi1)  
+GitHub: [https://github.com/Alhomaidi3](https://github.com/Alhomaidi3)  
 LinkedIn: [https://www.linkedin.com/in/abdulrahman-alhomaidi](https://www.linkedin.com/in/abdulrahman-alhomaidi)
 ```
