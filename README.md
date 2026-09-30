@@ -77,5 +77,5 @@ MIT License
 
 **Abdulrahman Alhomaidi**  
 GitHub: [https://github.com/Alhomaidi3](https://github.com/Alhomaidi3)  
-LinkedIn: [https://www.linkedin.com/in/abdulrahman-alhomaidi](https://www.linkedin.com/in/abdulrahman-alhomaidi)
+LinkedIn: [https://www.linkedin.com/in/Alhomaidi3](https://www.linkedin.com/in/alhomaidi3)
 ```
